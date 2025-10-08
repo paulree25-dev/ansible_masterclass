@@ -1,3 +1,0 @@
-interface GigabitEthernet0/3
-  description from_demo_file
-  ip address 10.3.3.3 255.255.255.0

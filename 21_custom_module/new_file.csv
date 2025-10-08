@@ -1,3 +1,0 @@
-inventory_name,device_ip,hostname,model,version,serial_number
-r1,192.168.0.101,r1,IOSv,15.6(2)T,96UX0MTA0V5ZYQDCB18O5
-r2,192.168.0.102,R2,IOSv,15.6(2)T,93R41MCVAJ0HNDFHSDIH2

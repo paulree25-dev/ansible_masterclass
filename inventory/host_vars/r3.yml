@@ -1,6 +1,0 @@
-sample_ip: 30.1.1.1/24
-interface_list:
-  - name: GigabitEthernet1
-    description: Gi1_descript
-  - name: GigabitEthernet2
-    description: Gi2_descript

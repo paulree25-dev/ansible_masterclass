@@ -1,3 +1,0 @@
-     config terminal
-interface GigabitEthernet1
- no shutdown    
